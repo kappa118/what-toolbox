@@ -17,6 +17,7 @@ Or you can run it locally out of the directory (either `git clone` or download t
 ```
 cd what-toolbox
 npm install
+node ./node_modules/gulp/bin/gulp.js # This transpiles for compatibility with older verions of node
 ./bin/what
 ```
 
